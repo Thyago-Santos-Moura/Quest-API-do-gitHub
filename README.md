@@ -1,4 +1,4 @@
-# Quest do DevQuest - Formulário com verificação de campo preenchido
+# Quest do DevQuest - API do GitHub
 
 Esta é uma solução para o para a Quest do DevQuest de javascript avançado, com o objetivo de testar o meu conhecimento de Java script avançado e Api.
 
@@ -8,7 +8,6 @@ Esta é uma solução para o para a Quest do DevQuest de javascript avançado, c
   - [A Quest](#A-Quest)
 - [Meu processo](#meu-processo)
   - [Feito com](#feito-com)
-  - [O que eu aprendi](#o-que-eu-aprendi)
 - [Autor](#autor)
 
 ## Visão geral

@@ -5,7 +5,8 @@ Esta é uma solução para o para a Quest do DevQuest de javascript avançado, c
 ## Índices 
 
 - [Visão geral](#visão-geral)
-  - [A Quest](#A-Quest)
+  - [A Quest](#a-quest)
+  - [Adições](#as-adições-foram)
 - [Meu processo](#meu-processo)
   - [Feito com](#feito-com)
 - [Autor](#autor)
@@ -15,10 +16,11 @@ Esta é uma solução para o para a Quest do DevQuest de javascript avançado, c
 ### A Quest
 
 Foi me fornecido a maior parte do código (talvez 50%), meu objeitvo era fazer as adições que me foram pedidas.
-As adições foram : 
-    -Mostar número de seguidores do usuário e o número de pessoas que o usuário está seguindo.
-    -Apresentar na tela uma lista com até 10 últimos eventos do usuário no GitHub e a mensagem do evento.
-    -Mostrar também a quantidade de forks do repositório, a quantidade de estrelas do repositório, a quantidade de watchers do repositório e mostrar a linguagem de programação do repositório.
+
+#### As adições foram
+- Mostar número de seguidores do usuário e o número de pessoas que o usuário está seguindo
+- Apresentar na tela uma lista com até 10 últimos eventos do usuário no GitHub e a mensagem do evento.
+- Mostrar também a quantidade de forks do repositório, a quantidade de estrelas do repositório, a quantidade de watchers do repositório e mostrar a linguagem de programação do repositório.
 
 
 ## Meu processo
